@@ -148,6 +148,7 @@ box-sizing: border-box;
   text-align: center;
   border-radius: 85px;
   width: 20%;
+  color: var(--cor-secundaria);
 }
 
 .configuracao__botao__salvar1 { 
@@ -160,4 +161,5 @@ box-sizing: border-box;
   text-align: center;
   border-radius: 85px;
   width: 20%;
+  color: var(--cor-secundaria);
 }
